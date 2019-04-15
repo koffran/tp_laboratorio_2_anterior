@@ -42,8 +42,11 @@ namespace Entidades_TP
             Console.WriteLine(this._numero);
         }
         
-        /*ValidarNumero comprobará que el valor recibido sea numérico, y lo retornará en
-         formato double. Caso contrario, retornará 0.*/
+        /// <summary>
+        /// Valida que el parametro recibido contenga un numero del tipo double
+        /// </summary>
+        /// <param name="strNumero"></param>
+        /// <returns></returns>
         public double ValidarNumero(string strNumero)
         {
             double retorno = 0;
@@ -72,6 +75,11 @@ namespace Entidades_TP
             return n1._numero * n2._numero;
         }
 
+        /// <summary>
+        /// Retorna el numero en decimal a partir del binario pasado como parametro
+        /// </summary>
+        /// <param name="binario"></param>
+        /// <returns></returns>
         public string BinarioDecimal(string binario)
         {
             string retorno = "Valor invalido";
@@ -88,6 +96,11 @@ namespace Entidades_TP
             return retorno;
         }
 
+        /// <summary>
+        /// Realiza el calculo para pasar un numero de binario a decimal
+        /// </summary>
+        /// <param name="binario"></param>
+        /// <returns></returns>
         static string CalcularDecimal(string binario)
         {
             int entero = 0;
@@ -100,6 +113,11 @@ namespace Entidades_TP
             return entero.ToString();
         }
 
+        /// <summary>
+        /// Retorna el numero en binario a partir del decimal pasado como parametro
+        /// </summary>
+        /// <param name="numero"></param>
+        /// <returns></returns>
         public string DecimalBinario(string numero)
         {
             string retorno = "Valor invalido";
@@ -114,6 +132,11 @@ namespace Entidades_TP
             return retorno;
         }
 
+        /// <summary>
+        /// Retorna el numero en binario a partir del decimal pasado como parametro
+        /// </summary>
+        /// <param name="numero"></param>
+        /// <returns></returns>
         public string DecimalBinario(double numero)
         {
             string strNumero = numero.ToString();
@@ -121,6 +144,11 @@ namespace Entidades_TP
 
         }
 
+        /// <summary>
+        /// Realiza el calculo para pasar un numero de decimal a binario
+        /// </summary>
+        /// <param name="entero"></param>
+        /// <returns></returns>
         static string CalcularBinario(int entero)
         {
             string binario = "";
@@ -136,9 +164,13 @@ namespace Entidades_TP
     public class Calculadora
     {
 
-        /*2. El método Operar será de clase:
-            a.Validará y realizará la operación pedida entre ambos números.
-            b.Si se tratara de una división por 0, retornará double.MinValue.*/
+        /// <summary>
+        /// Realiza determinada operacion entre dos numeros dependiendo del operador recibido
+        /// </summary>
+        /// <param name="num1"></param>
+        /// <param name="num2"></param>
+        /// <param name="operador"></param>
+        /// <returns></returns>
         public double Operar(Numero num1, Numero num2, string operador)
         {
             double retorno = 0;
@@ -164,9 +196,11 @@ namespace Entidades_TP
             return retorno;
         }
 
-        /*El método ValidarOperador será privado y estático.Deberá validar que el operador
-        recibido sea +, -, / o*. Caso contrario retornará +.*/
-
+        /// <summary>
+        /// Verifica que el operador recibido sea un operador valido, caso contrario retorna "+"
+        /// </summary>
+        /// <param name="operador"></param>
+        /// <returns></returns>
         private static string ValidarOperador(string operador)
         {
             string retorno = "+";
