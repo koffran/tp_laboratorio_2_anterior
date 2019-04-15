@@ -9,7 +9,7 @@ namespace Entidades_TP
     public class Numero
     {
         //Parametros
-        public double _numero; //TIENE QUE SER PRIVADO
+        private double _numero; 
         //Propiedades
         private string SetNumero
         {
@@ -19,7 +19,7 @@ namespace Entidades_TP
             }
         }
 
-        #region Constructores
+        
         public Numero() : this("0")
         {
 
@@ -34,16 +34,14 @@ namespace Entidades_TP
         {
             _numero = numero;
         }
-        #endregion
+        
 
-        //Metodos
+        
         public void Mostrar()
         {
             Console.WriteLine(this._numero);
         }
         
-
-
         /*ValidarNumero comprobará que el valor recibido sea numérico, y lo retornará en
          formato double. Caso contrario, retornará 0.*/
         public double ValidarNumero(string strNumero)
