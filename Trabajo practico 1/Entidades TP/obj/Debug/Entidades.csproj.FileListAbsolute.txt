@@ -1,0 +1,7 @@
+C:\Users\Koff\Desktop\Entidades TP\Entidades TP\bin\Debug\Entidades TP.exe.config
+C:\Users\Koff\Desktop\Entidades TP\Entidades TP\bin\Debug\Entidades TP.exe
+C:\Users\Koff\Desktop\Entidades TP\Entidades TP\bin\Debug\Entidades TP.pdb
+C:\Users\Koff\Desktop\Entidades TP\Entidades TP\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Koff\Desktop\Entidades TP\Entidades TP\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Koff\Desktop\Entidades TP\Entidades TP\obj\Debug\Entidades TP.exe
+C:\Users\Koff\Desktop\Entidades TP\Entidades TP\obj\Debug\Entidades TP.pdb

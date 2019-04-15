@@ -1,0 +1,14 @@
+C:\Users\Koff\Desktop\Entidades TP\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Koff\Desktop\Entidades TP\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Koff\Desktop\Entidades TP\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Koff\Desktop\Entidades TP\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Koff\Desktop\Entidades TP\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Koff\Desktop\Entidades TP\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Koff\Desktop\Entidades TP\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Koff\Desktop\Entidades TP\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Koff\Desktop\Entidades TP\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Koff\Desktop\Entidades TP\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Koff\Desktop\Entidades TP\MiCalculadora\bin\Debug\Entidades TP.exe
+C:\Users\Koff\Desktop\Entidades TP\MiCalculadora\bin\Debug\Entidades TP.pdb
+C:\Users\Koff\Desktop\Entidades TP\MiCalculadora\bin\Debug\Entidades TP.exe.config
+C:\Users\Koff\Desktop\Entidades TP\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
