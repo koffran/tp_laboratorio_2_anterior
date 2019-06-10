@@ -1,0 +1,6 @@
+C:\Users\Koff\source\repos\Zarate.Franco.2A.TP3\Zarate.Franco.2A.TP3\bin\Debug\Zarate.Franco.2A.TP3.dll
+C:\Users\Koff\source\repos\Zarate.Franco.2A.TP3\Zarate.Franco.2A.TP3\bin\Debug\Zarate.Franco.2A.TP3.pdb
+C:\Users\Koff\source\repos\Zarate.Franco.2A.TP3\Zarate.Franco.2A.TP3\obj\Debug\Zarate.Franco.2A.TP3.csprojAssemblyReference.cache
+C:\Users\Koff\source\repos\Zarate.Franco.2A.TP3\Zarate.Franco.2A.TP3\obj\Debug\Zarate.Franco.2A.TP3.csproj.CoreCompileInputs.cache
+C:\Users\Koff\source\repos\Zarate.Franco.2A.TP3\Zarate.Franco.2A.TP3\obj\Debug\Zarate.Franco.2A.TP3.dll
+C:\Users\Koff\source\repos\Zarate.Franco.2A.TP3\Zarate.Franco.2A.TP3\obj\Debug\Zarate.Franco.2A.TP3.pdb
